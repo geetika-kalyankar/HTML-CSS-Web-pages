@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 75px;
+}
+img{
+    height: 35px;
+}
+.line{
+    width: 1px;
+    height: 35px;
+    background-color: beige;
+}
+.grow-list{
+    display: flex;
+    justify-content: space-between;
+
+}
+.list{
+    display: flex;
+    list-style-type: none;
+}
+button{
+    display: flex;
+}
