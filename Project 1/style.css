@@ -42,8 +42,6 @@ img{
     padding: 0 1.5rem;
 }
 .button-small{
-    display: flex;
-    align-items: center;
     font-weight: 600;
     padding: 7px 20px;
     background-color: #bc0ac7;
@@ -62,7 +60,11 @@ img{
     text-align: center;
 }
 .hero-heading{
- font-size: 4rem;
+ font-size: 80px;
+}
+.hero-description{
+    font-size: 25px;
+    font-weight: 400;
 }
 
 .button-large{
@@ -70,7 +72,7 @@ img{
     background-color: #bc0ac7;
     padding: 0.5rem 2rem;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 30px;
     border-radius: 10px;
     border: none;
 }
@@ -79,14 +81,18 @@ img{
 }
 
 footer{
+display: flex;
+justify-content: center;
 position: fixed;
 bottom: 0;
-text-align: center;
 background-color: black;
 width: 100%;
 padding: 2px 0 ;
 }
 .name{
     font-weight: 500;
-    font-size: 15px;
+    font-size: 17px;
+}
+a{
+    margin-left: 5px;
 }
