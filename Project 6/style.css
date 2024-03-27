@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     font-family: "Orbitron", sans-serif;
 }
+
+
 /* navigations */
 .navbar-container{
     display: flex;
@@ -17,7 +21,7 @@
     margin-left: 3%;
 }
 .logo img{
-    width: 75%;
+    width: 72%;
 }
 .list{
     display: flex;
@@ -27,6 +31,7 @@
     margin: 0 1.9rem;
     font-size: 15px;
 }
+/* Group Buttons Sections */
 .button-group{
     display: flex;
     align-items: center;
@@ -44,8 +49,106 @@
     color: rgb(157, 152, 152);
     font-weight: 500;
 }
+/* Main Content */
 .hero-container{
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 9rem;
+}  
+/* Left Section  */
+.square{
+    position: relative;
+    margin-top: 18rem;
+    margin-left: 9rem;
+    z-index: -1;
+}
+.square img{
+    height: 38vh;
+}
+.boy{
+    position: absolute;
+    top: 25%;
+    left: 45px;
+}
+.boy img{
+    height: 55vh;
+}
+/* Glob Alignment */
+.globe{
+    position: absolute;
+    top: 19%;
+    left: 52%;
+}
+.globe img{
+    width: 4vw;
+    height: 9vh;
+}
+
+/* Star alignment */
+.star{
+    position: absolute;
+     bottom: 6rem;
+     left: 42%;
+}
+.star-2{
+    position: absolute;
+    top: 30%;
+    right: 9.5%;
+
+}
+/* Right Side description */
+.hero-container-right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 17%;
+
+}
+/* Heading */
+.hero-heading{
+    font-size: 40px;
+}
+.hero-description{
+    margin: 0 23% ;
+    text-align: center;
+    letter-spacing: 1.5px;
+    line-height: 1.7;
+    margin-top: 1.5rem;
+    font-size: 10px;
+    font-family: "Poppins", sans-serif;
+}
+/* Button Section */
+.btn-2{
+    margin-top: 3rem ;
+}
+.btn-2 button{
+    border-radius: 9px;
+}
+.btn-2 > .button-email{
+    letter-spacing: 2px;
+    padding: 4px 14px;
+    background-color: #FFFFFF;
+}
+.btn-2 > .button-join{
+    color: white;
+    background-color: black;
+    padding: 4px 12px;
+}
+/* Contact Us */
+.contact-heading{
+    font-family:"Poppins", sans-serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 2rem ;
+    margin-bottom: 1rem;
+}
+/* Social Media Section */
+.icons{
+    margin-left: 15px;
+}
+.icons img{
+    margin: 0 9px;
+    
 }
