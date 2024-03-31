@@ -4,15 +4,21 @@
     padding: 0;
     font-family: "Poppins", sans-serif;
 }
+/* !-----Navigation Section-----! */
 .navbar-container{
     display: flex;
     align-items: center;
 }
+/* !-----Logo Section-----! */
 .img{
    margin-left: 8%;
    margin-right: 4%;
-   margin-top: 1%;
+   padding-top: 1%;
 }
+.img img{
+    height: 45px;
+}
+/* !-----Nav List-----! */
 .list{
     display: flex;
     gap: 4rem;
@@ -22,11 +28,19 @@
 .list-item{
     opacity: 0.3;
 }
+.list-item:hover{
+    opacity: 1;
+}
 .l1{
     opacity: 1;
 }
+/* !-----Menu Button-----! */
+.menu{
+    display: none;
+}
+/* !-----Button-----! */
 .button-group{
-    margin-left: 22rem;
+    margin-left: 20rem;
     margin-top: 1.5rem;
 }
 .nav-button1{
@@ -36,26 +50,31 @@
     border-radius: 10px;
     border: none;
 }
+.nav-button1:hover{
+    background-color: #393584;
+}
+/* !-----Main Section-----! */
 .banner-container{
     display: flex;
     justify-content: space-between;
 }
+/* !-----Left Section-----! */
 .left-side{
     margin: 9% 0 0 8%;
-    
 }
+/* !-----Heading-----! */
 .heading-text{
-    font-size: 62px;
-    
+    font-size: 62px; 
 }
 .heading-text > span{
     color: #5955B3
 }
-
+/* !-----Description Section-----! */
 .description{
     margin-top: 15px ;
     opacity: 0.5;
 }
+/* !-----Service Button-----! */
 .btn{
     margin-top: 12%;
     background-color: #5955B3;
@@ -64,9 +83,14 @@
     border-radius: 10px;
     border: none;
 }
+.btn:hover{
+    background-color: #393584;
+}
+/* !-----Right Section-----! */
 .right-side{
     margin-top: 2rem;
 }
+/* !-----Footer Section-----! */
 footer{
     display: flex;
     justify-content: center;
@@ -76,15 +100,68 @@ footer{
     width: 100%;
     padding: 2px 0 ;
     }
-    .name{
-        font-weight: 500;
-        font-size: 17px;
+.name{
+    font-weight: 500;
+    font-size: 17px;
+}
+.name, a{
+    padding: 0.7rem 0;
+    font-size: 20px;
+}
+a{  
+    margin-left: 5px;
+    color: white;    
+}
+@media (max-width:480px) {
+    .navbar-container{
+        margin-top: 1rem;
     }
-    .name, a{
-        padding: 0.7rem 0;
-        font-size: 20px;
+    .img img{
+        height: 5.4vh;
+        margin-top: 5px;
     }
-    a{
-        margin-left: 5px;
-        color: white;
+    .list{
+        display: none;
     }
+    .button-group{
+        display: none;
+    }
+    .ri-menu-line {
+        display: block;
+        font-size: 33px;
+        color: black;
+       margin-left: 9rem;
+    }
+    .banner-container{
+        flex-wrap: wrap;
+    }
+    .left-side{
+        margin-top: 2rem;
+        margin-left: 15px;
+    }
+    /* !---Heading---! */
+    .heading-text{
+        font-size: 50px; 
+    }
+    /* !---Image---! */
+    .right-side img{
+        width: 100%;
+    }
+    .description{
+        font-size: 15px;
+        opacity: 0.7;
+    }
+    /* !---Service Button---! */
+    .btn{
+        font-size: 15px;
+        padding: 15px 30px;
+    }
+    /* !---Footer---! */
+    footer{
+        margin-top: 1rem;
+        padding: 1px 0 ;
+    }
+
+
+    
+}

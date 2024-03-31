@@ -8,30 +8,39 @@
 body{
     background-color: #F9F5EC;
 }
+/* !-----Navigation Sections-----! */
 .navigations{
     display: flex;
+    gap: 40px;
     align-items: center;
     list-style-type: none;
     padding: 30px 0;
 }
 .logo-img{
-    padding-left: 8rem;
+    padding-left: 9rem;
 }
 .navigations a{
     color: black;
     text-decoration: none;
-    padding: 0 2rem;
+
     font-size: 18px;
 }
+/* !-----Menu Bar-----! */
+.menu{
+    display: none;
+    /* color: black;
+    margin-right: 2rem;
+    font-size: 30px;
+     */
+}
+/* !-----Main Section-----! */
 .sections{
     display: flex;
     justify-content: space-between;
 }
+/* !-----Left section-----! */
 .leftmain{
     padding: 14% 0 0 10%;
-}
-.rightmain{
-    padding-right: 15%;
 }
 h1{
     font-size: 70px;
@@ -52,6 +61,11 @@ button{
 button:hover{
     background-color: rgb(3, 142, 3);
 }
+/* !-----Right Section-----! */
+.rightmain{
+    padding-right: 15%;
+}
+/* !-----Footer Section-----! */
 footer{
     display: flex;
     justify-content: center;
@@ -65,4 +79,53 @@ footer{
 a{
     margin-left: 5px;
 
+}
+/* !-----Responsive Section-----! */
+@media (max-width:480px) {
+     .navigations .items{
+        display: none;
+     }
+     .logo-img img{
+        margin-left: -7rem;
+     }
+     .menu{
+        display: block;
+        color: black;
+        margin-right: 2rem;
+        font-size: 31px;
+        
+     } 
+     .navigations{
+        display: flex;
+        justify-content: space-between;
+     }
+     h1{
+        margin-top: -2rem;
+        font-size: 50px;
+     }
+     button{
+        padding: 12px 15px;
+    }
+     .sections{
+       flex-wrap: wrap;
+    }
+    .rightmain{
+        margin-top: 1rem;
+        margin-left: 2.5rem;
+    }
+    .up-img img{
+        width: 47%;
+        height: 70%;
+    }
+    .down-img img{
+        width: 110%;
+        height: 70%;
+    }
+    .leftmain p{
+       font-size: 16px;
+    }
+    .name, a{
+        padding: 0.3rem 0;
+        font-size: 20px;
+    }
 }
