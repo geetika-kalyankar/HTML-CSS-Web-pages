@@ -115,6 +115,8 @@ a{
 @media (max-width:480px) {
     .navbar-container{
         margin-top: 1rem;
+        display: flex;
+        justify-content: space-between;
     }
     .img img{
         height: 5.4vh;
@@ -126,11 +128,11 @@ a{
     .button-group{
         display: none;
     }
-    .ri-menu-line {
+    .menu {
         display: block;
         font-size: 33px;
         color: black;
-       margin-left: 9rem;
+       margin-right: 1rem;
     }
     .banner-container{
         flex-wrap: wrap;
