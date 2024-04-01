@@ -21,7 +21,7 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%201/output/mobile%20screenshot.png)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%201/output/screenshot.PNG)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%201/screenshot.PNG)
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://build-tomorrow-webpage.netlify.app/)
 
