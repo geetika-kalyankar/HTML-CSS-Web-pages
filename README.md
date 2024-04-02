@@ -21,7 +21,7 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%201/Output/M1.jpeg)
 
 ### Desktop:
-![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%201/screenshot.PNG)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%201/Output/1.png)
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://build-tomorrow-webpage.netlify.app/)
 
@@ -47,10 +47,10 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%202/output/mobile.png)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%202/Output/M2.png)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%202/output/screenshot.PNG)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%202/Output/2.png)
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://calm-webpages.netlify.app/).
 
@@ -79,10 +79,10 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%203/output/mobile.png)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%203/Output/M3.png)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%203/output/screenshot.PNG)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%203/Output/3.png)
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://digital-marketing-webpages.netlify.app/).
 
@@ -110,10 +110,10 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%204/output/mobile.png)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%204/Output/M4.png)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%204/output/screenshot.PNG)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%204/Output/4.png)
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://law-and-justice-webpage.netlify.app/).
 
@@ -141,10 +141,10 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%205/output/mobile.png)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%205/Output/M5.png)
 
 ### Desktop:
-![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%201/screenshot.PNG)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%205/Output/5.png)
 
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://medifine-webpage-app.netlify.app/).
@@ -173,10 +173,10 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%206/output/mobile.png)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%206/Output/M6.png)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%206/output/desktop.PNG)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%206/Output/6.png)
 
 
 
