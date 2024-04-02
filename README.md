@@ -18,7 +18,7 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%201/output/mobile%20screenshot.png)
+![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%201/Output/M1.jpeg)
 
 ### Desktop:
 ![image](https://github.com/geetika-kalyankar/HTML-CSS-Web-pages/blob/main/Project%201/screenshot.PNG)
